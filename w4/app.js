@@ -1,3 +1,10 @@
+/*
+AI Use Disclosure:
+Prompt used: "write structure  for the problem with example code" 
+How AI helped: The AI provided a basic, beginner-friendly version of index.html, and app.js. 
+It explained the error 'form is null' and showed how to fix it by moving the script or using DOMContentLoaded.
+I used the AI’s response to build and debug the final working version of my project.
+*/
 // 1. Get the form element from HTML.
 // 2. Listen for a "submit" event on the form.
 // 3. Stop page reload with event.preventDefault().
